@@ -1,0 +1,6 @@
+Metrica,Docker,VM
+CPU (%),30.0,45.0
+RAM (MB),64.0,128.0
+Tiempo (s),2.3,10.5
+FPS,60.0,55.0
+Red (Mbps),100.0,90.0
